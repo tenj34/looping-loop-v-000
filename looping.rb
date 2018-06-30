@@ -3,4 +3,4 @@ def looping
 end
 
 #call your method here
-puts looping
+looping
